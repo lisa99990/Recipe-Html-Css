@@ -18,19 +18,19 @@ header{
     font-family: "Lucida Sans Unicode", Helvetica, Arial, sans-serif;
 }
 
-#mainTitle{
+.mainTitle{
     text-align: center;
     font-size: 22pt;
     font-weight: bold;
 }
 
-#otherTitle{
+.otherTitle{
     font-size: 18pt;
     text-align: left;
     font-weight: normal;
 }
 
-#strikeTh{
+.strikeTh{
     text-decoration: line-through;
 }
 
@@ -43,7 +43,7 @@ ul{
     list-style-image: url('images/pie_icon.gif');
 }
 
-#strongId{
+.strongId{
  font-weight: bold;
 }
 
